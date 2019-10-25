@@ -1,0 +1,125 @@
+.icon-title{
+    float: right;
+    margin: -26px 8px;
+  }
+.box-head .title {
+    margin: 5px;
+}
+.table-responsive-md{
+    font-size:14px;
+}
+.page-link{
+    color:#1c1c1d;
+}
+.panel-heading{
+    margin: 10px 0 10px;
+}
+.clickable{
+    float: left;
+    font-size: 20px;
+    padding: 2px;
+    padding-right: 10px;
+}
+.panel-title{
+    margin-top: 5px;
+}
+.icon-timkiem{
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+
+}
+.icon-click div{
+    margin-bottom: 10px;
+}
+.icon-timkiem a{
+    padding-left: 6px;
+    padding-right: 5px;
+    background: #343a40;
+    color: #d6d8d9 !important;
+}
+.bg-primary{
+    background: #343a40 !important;
+    color: #d6d8d9 !important;
+}
+tbody{
+    text-align: center;
+}
+.bg-primary th{
+    color: #d6d8d9;
+    font-weight: 500;
+    white-space:nowrap;
+}
+.btn-primary{
+    background: #343a40d6;
+    border: 1px solid #343a40fa;
+
+    color: #ffffffc2 !important;
+}
+.form-group .icon-click a{
+    padding: 6px;
+    font-size: 13px;
+}
+.tbl-pagination{
+    margin-left: 10px;
+}
+.menu-function{
+	border: 1px solid;
+    width: 200px;
+    padding: 5px;
+    background: white;
+}
+.dropdown-item{
+    font-size: 14px;
+    padding: 0;
+}
+.modal-header .close{
+    margin-left: -15px;
+}
+.modal-body label{
+    font-weight: 400!important;
+}
+.modal-body .form-group{
+    margin:0;
+}
+/*.modal-input{
+	width: 40% !important;
+    border: none;
+    margin-left: 10%;
+    border-bottom: 1px solid #dde1e4;
+	text-align:right;
+}
+.modal-content .modal-title{
+	margin-bottom:0;
+}
+#dutoankinhphi .modal-body .row{
+	margin-bottom:10px;
+}*/
+.input-ghichu{
+	border-radius: 10px;
+    width: 90%;
+    margin-left: 3%;
+    margin-top: 10px;
+}
+#tiento .clickable1{
+	float:right !important;
+	font-size: 20px;
+    padding: 2px;
+    padding-right: 10px;
+}
+.clickable1{
+    padding-left: 10px;
+}
+#tiendo .btn-group-justified{
+	margin-top:15px;
+}
+#tiendo .history-title{
+	border: 1px solid #dde1e4;
+    border-radius: 5px;
+}
+#tiendo .panel-title{
+	float:left;
+}
+#tiendo .panel-heading{
+    margin: 14px 0 20px;
+}
